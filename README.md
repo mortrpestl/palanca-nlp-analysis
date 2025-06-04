@@ -6,12 +6,12 @@
 Language analysis of the 'Palanca Series', a 16-part anthology with themes of farewell and new beginnings, using NLTK, NetworkX, Seaborn, and other analysis paradigms.
 
 This file contains:
-- The JupyterNotebook for all of the code with instructions for importing important tools (e.g. the NLTK downloads)
+- The Jupyter [notebook](https://github.com/mortrpestl/palanca-nlp-analysis/blob/main/PalancaSeriesAnalysis.ipynb) for all of the code with instructions for importing important tools (e.g. the NLTK downloads)
 - The corresponding image outputs of each sub-analysis, including but not limited to:
-  - Frequency analysis and bonus statistics of all lemmatized texts using NLTK, matplotlib, and Seaborn
-  - Word cloud of common words throughout the text using WordCloud
-  - Spring layout and radial network graph showing appearances of top 50 words in the documents using NetworkX
-  - All of the sub-analyses combined in one comprehensive report
+  - [Frequency analysis](https://github.com/mortrpestl/palanca-nlp-analysis/blob/main/palanca_freqanalysis.png) and [bonus statistics](https://github.com/mortrpestl/palanca-nlp-analysis/blob/main/palanca_stats.png) of all lemmatized texts using NLTK, matplotlib, and Seaborn
+  - [Word cloud](https://github.com/mortrpestl/palanca-nlp-analysis/blob/main/palanca_wordcloud.jpg) of common words throughout the text using WordCloud
+  - [Spring layout graph](https://github.com/mortrpestl/palanca-nlp-analysis/blob/main/palanca_network.png) and [radial network graph](https://github.com/mortrpestl/palanca-nlp-analysis/blob/main/palanca_radial_network.png) showing appearances of top 50 words in the documents using NetworkX
+  - All of the sub-analyses combined in one comprehensive [report](https://github.com/mortrpestl/palanca-nlp-analysis/blob/main/PalancaSeriesAnalysis.png)
 
 Below is an overview of the results of the report:
  ![PalancaSeriesAnalysis](https://github.com/user-attachments/assets/319ece03-17b6-4764-a22a-d22247b96746)
